@@ -47,7 +47,7 @@ interface_implementation_test/
 ```
 ## PREREQUISITES
 
-Inside the directory interface_implementation_testt, create a folder lib and clone the github repository of googletest in it . Instructions are shown below
+Inside the directory interface_implementation_test, create a folder lib and clone the github repository of googletest in it . Instructions are shown below
 
 ```bash
 cd interface_implementation_test
